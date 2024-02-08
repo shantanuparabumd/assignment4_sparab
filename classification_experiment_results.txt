@@ -1,0 +1,49 @@
+------------------------------------------
+Experiment main_result
+Class chair Number of Point 10000 Rotation X:0 Y:0 Z:0 
+Test Accuracy: 0.9790136411332634.
+------------------------------------------
+Experiment main_result
+Class vase Number of Point 10000 Rotation X:0 Y:0 Z:0 
+Test Accuracy: 0.9790136411332634.
+------------------------------------------
+Experiment main_result
+Class lamp Number of Point 10000 Rotation X:0 Y:0 Z:0 
+Test Accuracy: 0.9790136411332634.
+
+
+------------------------------------------
+Experiment low_rotate_points
+Class chair Number of Point 10000 Rotation X:15 Y:15 Z:15 
+Test Accuracy: 0.9150052465897167.
+------------------------------------------
+Experiment med_rotate_points
+Class chair Number of Point 10000 Rotation X:45 Y:45 Z:45 
+Test Accuracy: 0.6610703043022036.
+------------------------------------------
+Experiment high_rotate_points
+Class chair Number of Point 10000 Rotation X:90 Y:60 Z:0 
+Test Accuracy: 0.29590766002098634.
+------------------------------------------
+
+------------------------------------------
+Experiment xtr_low_number_points
+Class chair Number of Point 50 Rotation X:0 Y:0 Z:0 
+Test Accuracy: 0.664218258132214.
+------------------------------------------
+Experiment very_low_number_points
+Class chair Number of Point 100 Rotation X:0 Y:0 Z:0 
+Test Accuracy: 0.8856243441762854.
+------------------------------------------
+Experiment low_number_points
+Class chair Number of Point 1000 Rotation X:0 Y:0 Z:0 
+Test Accuracy: 0.9779643231899265.
+------------------------------------------
+Experiment med_number_points
+Class chair Number of Point 5000 Rotation X:0 Y:0 Z:0 
+Test Accuracy: 0.9769150052465897.
+------------------------------------------
+Experiment high_number_points
+Class chair Number of Point 10000 Rotation X:0 Y:0 Z:0 
+Test Accuracy: 0.9790136411332634.
+------------------------------------------

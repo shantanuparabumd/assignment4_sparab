@@ -1,0 +1,36 @@
+------------------------------------------
+Experiment main_result
+Number of Point 10000 Rotation X:0 Y:0 Z:0 
+Test Accuracy: 0.9025773095623987.
+------------------------------------------
+Experiment low_rotate_points
+Number of Point 10000 Rotation X:15 Y:15 Z:15 
+Test Accuracy: 0.7426784440842787.
+------------------------------------------
+Experiment med_rotate_points
+Number of Point 10000 Rotation X:45 Y:45 Z:45 
+Test Accuracy: 0.5105677471636954.
+------------------------------------------
+Experiment high_rotate_points
+Number of Point 10000 Rotation X:90 Y:60 Z:0 
+Test Accuracy: 0.28231166936790925.
+------------------------------------------
+Experiment xtr_low_number_points
+Number of Point 50 Rotation X:0 Y:0 Z:0 
+Test Accuracy: 0.7889465153970826.
+------------------------------------------
+Experiment very_low_number_points
+Number of Point 100 Rotation X:0 Y:0 Z:0 
+Test Accuracy: 0.8242625607779579.
+------------------------------------------
+Experiment low_number_points
+Number of Point 1000 Rotation X:0 Y:0 Z:0 
+Test Accuracy: 0.8995040518638574.
+------------------------------------------
+Experiment med_number_points
+Number of Point 5000 Rotation X:0 Y:0 Z:0 
+Test Accuracy: 0.9025341977309562.
+------------------------------------------
+Experiment high_number_points
+Number of Point 10000 Rotation X:0 Y:0 Z:0 
+Test Accuracy: 0.9025773095623987.
