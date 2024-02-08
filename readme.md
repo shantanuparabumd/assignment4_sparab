@@ -94,7 +94,7 @@ python eval_seg.py --task seg
 **Correctly Segmented Instances**
 
 | Ground Truth Point Cloud                                     | Segmented Point Cloud |
-| :---:                                           |    :----:   |   :---: |
+| :---:                                                        |   :---: |
 | ![](output/segmentation/main_result/correct/gt_sample_1.gif)   | ![](output/segmentation/main_result/correct/pred_sample_1.gif)        | 
 | ![](output/segmentation/main_result/correct/gt_sample_2.gif)   | ![](output/segmentation/main_result/correct/pred_sample_2.gif)        | 
 | ![](output/segmentation/main_result/correct/gt_sample_3.gif)   | ![](output/segmentation/main_result/correct/pred_sample_3.gif)        | 
